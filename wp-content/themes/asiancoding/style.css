@@ -881,10 +881,10 @@ a.nav-link:hover{
 	border-bottom: 1px solid #FE0D6D;
 }
 footer.footer{
-	height: 60px;
+	height: 80px;
 	background-color: #FE0D6D;
 	color: #FFFFFF;
-	padding-top: 15px;
+	padding-top: 30px;
 }
 
 .footer-link,.footer-link:visited{
@@ -908,4 +908,19 @@ footer.footer{
 .overlip{
 	margin-left: -50px;
 	background-color: #f1f1f1;
+}
+.text-title-h3{
+	font-size: 54px;
+	color: #FFFFFF;
+	border-bottom: 5px solid #FE0D6D;
+}
+.text-symbol{
+	font-size: 50px;
+	color: #191E25;
+}
+.font-14{
+	font-size: 14px !important;
+}
+.border-b{
+	border-bottom: 5px solid #FE0D6D;
 }
